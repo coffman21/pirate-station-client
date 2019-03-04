@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pirate Station Client</string>
+    <string name="edit_msg">Enter a message</string>
 </resources>
